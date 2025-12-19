@@ -389,3 +389,26 @@ What you gain
 
 #### 💡For more real-world scenarios, see [EXAMPLES.md](EXAMPLES.md).
 
+
+## Citation
+
+```bibtex
+@misc{mmqlint2025,
+  title        = {mmqlint: A lightweight quality gate for LLM training and inference datasets},
+  author       = {Yuyan Chen},
+  year         = {2025},
+  howpublished = {\url{https://github.com/Yukyin/mmqlint}},
+  version      = {v0.1.0},
+  note         = {Software. For commercial licensing, see LICENSE and NOTICE in the repository.}
+}
+```
+
+## License
+
+This project is licensed under the PolyForm Noncommercial License 1.0.0.
+
+- Noncommercial use, including academic and research use, is permitted under the license.
+- Commercial use is not permitted under this license and requires a separate commercial agreement.
+
+See `LICENSE` and `NOTICE` for details. If you need commercial licensing, contact the maintainer at <yolandachen0313@gmail.com>.
+
