@@ -1,4 +1,4 @@
-# mmqlint
+# 🔍 mmqlint
 
 mmqlint is a lightweight quality gate for LLM and VLM training and inference datasets, and for the prompt rendering pipeline that consumes them.
 
