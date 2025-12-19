@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "mmqlint"
+version = "0.0.1"
+description = "Modality-agnostic chat dataset quality linter"
+requires-python = ">=3.9"
+dependencies = ["typer>=0.9", "rich>=13"]
+
+[project.scripts]
+mmqlint = "mmqlint.cli:app"
+
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+packages = ["mmqlint"]

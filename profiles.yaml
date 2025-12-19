@@ -1,0 +1,7 @@
+profiles:
+  my-vlm:
+    require_system: true
+    system_visible: true
+    system_invisible_level: ERROR
+    fold_system_into_user: false
+
